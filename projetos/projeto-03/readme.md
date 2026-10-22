@@ -241,7 +241,7 @@ Os nomes das imagens podem ser diferentes, mas os caminhos precisam funcionar qu
 - Repositório sugerido: `projeto-03-salgaderia-tentacao`.
 - Todos os arquivos devem estar dentro do repositório.
 - Faça pelo menos três registros de versão: estrutura, conteúdo/estilo e correções finais.
-- A entrega deve ser feita até o dia 21 às 15:20.
+- A entrega deve ser feita até o dia 28 de Outubro às 15:20.
 
 ---
 
